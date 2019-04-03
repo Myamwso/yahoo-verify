@@ -1,0 +1,19 @@
+{
+    "name": "myamwso/yahooverify",
+    "description": "\u001b[2~Yah邮箱注册",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "huangjie",
+            "email": "huangjie@ymify.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+    "autoload": {
+      "psr-4": {
+        "yahooverify\\": "./src"
+      }
+    }
+}
